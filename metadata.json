@@ -1,0 +1,5 @@
+{
+  "name": "Pickleball Court Finder",
+  "description": "An application to help users locate pickleball courts or facilities in or around a specified US zip code using Google Maps data via the Gemini API.",
+  "requestFramePermissions": []
+}
